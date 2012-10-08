@@ -1,5 +1,5 @@
 Bundle-SymbolicName: org.jpm4j.example.hello
-Bundle-Version: 1.0.2
+Bundle-Version: 1.0.3
 Bundle-Description: A demonstration program for JPM. It is a a tiny example just showing hello world as a command 
  line application.
 Main-Class: Hello
